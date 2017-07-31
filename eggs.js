@@ -3,6 +3,7 @@ var mathy = Math.floor((Math.random() * 100) + 1);;
 var btn;
 var nextBtn;
 var correct = 0;
+
 var incorrect = 0;
 var cookieCount = 0;
 var bigcookieCount = 0;
